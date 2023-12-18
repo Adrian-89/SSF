@@ -1,2 +1,2 @@
 # SSF
-Reposirorio dedicado a la asignatura Sistemas Informaticos
+Repositorio dedicado a la asignatura Sistemas Informáticos
