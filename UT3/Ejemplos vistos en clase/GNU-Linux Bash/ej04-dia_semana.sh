@@ -3,8 +3,7 @@
 #########################################
 #
 # Nombre: ej04-dia_semana.sh
-# Autor: Antonio Dorta <adorlor@gobiernodecanarias.org>
-#
+# Autor: Adrian Ibarra Faura
 # Objetivo: indicar qué día de la semana es una fecha concreta
 #
 # Entradas: 3 argumentos -> 1:día, 2:mes, 3:año
