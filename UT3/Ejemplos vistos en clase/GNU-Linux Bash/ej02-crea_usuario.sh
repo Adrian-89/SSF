@@ -9,7 +9,7 @@
 # ENTRADAS: 1: nombre, 2: apellido, 3: usuario
 # SALIDAS: Mensaje
 #
-# VERSION: 2024-01-08 
+# Historial: 2024-01-08 
 #########################################
 
 nombre=$3
