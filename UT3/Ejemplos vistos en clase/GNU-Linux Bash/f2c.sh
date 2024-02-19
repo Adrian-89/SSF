@@ -3,12 +3,12 @@
 #########################################
 #
 # Nombre: f2c.sh
-# Autor: Antonio Dorta <adorlor@gobiernodecanarias.org>
+# Autor: Adrian Ibarra Faura
 #
-# Objetivo: convertir grados Fahrenheit a grados Celsius
+# Objetivo: Convertir grados Fahrenheit a grados Celsius
 #
-# Entradas: grados Fahrenheit
-# Salidas: grados Celsius
+# Entradas: Grados Fahrenheit
+# Salidas: Grados Celsius
 #
 # Historial:
 #   2023-12-19: versión 1
