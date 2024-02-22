@@ -1,12 +1,5 @@
 #!/bin/bash
-###############################
-# NOMBRE : scriptProceso.sh
-# AUTOR : Adonay Gonzalez Gutierrez y José Maximiliano Boada Martín
-#
-# Entrada : maxCPU y maxMem
-# Salida : no definida
-# OBJETVO : Realizar gestion de procesos
-#########################################
+
 
 maxCPU=$1
 maxMem=$2
