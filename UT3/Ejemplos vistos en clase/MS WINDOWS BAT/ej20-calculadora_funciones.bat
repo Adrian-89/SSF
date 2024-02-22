@@ -1,12 +1,12 @@
 @echo off
 
 REM ***************************
-REM * NOMBRE: menu_choice.bat
-REM * AUTOR: Antonio Dorta <adorlor@gobiernodecanarias.org>
+REM * NOMBRE: ej20-calculadora_funciones.bat
+REM * AUTOR: Adrian Ibarra Faura
 REM *
-REM * OBJETIVO: Ejemplo de choice
+REM * OBJETIVO: hacer una calculadora de funcines
 REM *
-REM * VERSIÓN: 2024-01-23 
+REM * VERSIÓN: 2024-01-28 version 1
 REM *
 REM ***************************
 

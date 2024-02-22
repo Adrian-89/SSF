@@ -3,30 +3,26 @@
 #########################################
 #
 # Nombre: c2f.sh
-# Autor: Antonio Dorta <adorlor@gobiernodecanarias.org>
+# Autor: Adrian Ibarra Faura
 #
 # Objetivo: convertir grados Celsius a Fahrenheit
 #
-# Entradas: grados Celsius
-# Salidas: grados Fahrenheit
+# Entradas: Grados Celsius
+# Salidas: Grados Fahrenheit
 #
 # Historial:
 #   2023-12-08: versión 1
-#   2023-12-09: versión 2 con soporte a Punto Flotante
+#   2024-01-08: versión 2 con soporte a Punto Flotante
 #
 #################################################
 
-# Argumentos
+
 gradosC=$1
 ndec=$2
 
-# Mis variables y constantes
 ndecDEF=3
 
-#echo "Has indicado $# argumentos"
-#echo "Los argumentos que has indicado son: $*"
-#echo "Los argumentos que has indicado son: $@"
-#echo "Estoy en la línea $LINENO, llevo ejecutando $SECONDS y fui ejecutado por $USER"
+
 
 
 if [ $# -eq 0 ]

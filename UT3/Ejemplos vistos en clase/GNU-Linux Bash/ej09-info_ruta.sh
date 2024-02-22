@@ -1,14 +1,14 @@
 #!/bin/bash
 
-#########################################
+#################################################
 #
 # NOMBRE: ej09-ficheros.sh
-# AUTOR: Antonio Dorta <adorlor@gobiernodecanarias.org>
+# AUTOR: Adrian Ibarra Faura
 #
 # OBJETIVO: informar sobre las características de los elementos en disco
 #
-# ENTRADAS: 1: elemento (fichero, directorio, etc.)
-# SALIDAS: información sobre el elemento
+# ENTRADAS: 1: Elemento como ficheros, directorios, etc
+# SALIDAS: Información sobre el elemento
 #
 # HISTORIAL:
 #   2024-01-12: versión 1
@@ -17,9 +17,7 @@
 
 elem=$1
 
-# 3 formas de comprobar que una variable no esté vacía
-#if [ "$elem" = "" ]
-#if [ -z "$elem" ]
+
 if [ ! -n "$elem" ]
 then
 	echo "ERROR: Debe indicar un elemento"
@@ -34,7 +32,8 @@ else
 	exit
 fi
 
-# Compruebo el tipo de elemento
+
+
 if [ -f "$elem" ]
 then
 	echo "'$elem' es un FICHERO"
@@ -48,7 +47,8 @@ else
 	echo "'$elem es OTRO ELEMENTO"
 fi
 
-# Compruebo si está vacío o no
+
+
 if [ -s "$elem" ]
 then
 	echo "'$elem' NO es vacío"
@@ -56,7 +56,8 @@ else
 	echo "'$elem' es VACÍO"
 fi
 
-# Comprobar PERMISOS
+
+
 
 if [ -r "$elem" ]
 then

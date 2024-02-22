@@ -3,7 +3,7 @@
 #########################################
 #
 # NOMBRE: ej07-compara.sh
-# AUTOR: Antonio Dorta <adorlor@gobiernodecanarias.org>
+# AUTOR: Adrian Ibarra Faura
 #
 # OBJETIVO: comparar dos números
 #
@@ -11,7 +11,7 @@
 # SALIDAS: indica qué número es mayor, o si son iguales
 #
 # HISTORIAL:
-#   2023-12-09: versión 1
+#   2024-01-08: versión 1
 #
 #################################################
 

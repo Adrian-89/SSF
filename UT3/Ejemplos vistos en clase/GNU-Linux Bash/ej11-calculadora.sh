@@ -3,12 +3,12 @@
 #########################################
 #
 # NOMBRE: ej11-calculadora.sh
-# AUTOR: Antonio Dorta <adorlor@gobiernodecanarias.org>
+# AUTOR: Adrian Ibarra Faura
 #
 # OBJETIVO: implementar una calculadora simple
 #
-# ENTRADAS: dos valores
-# SALIDAS: operación elegida
+# ENTRADAS: 2 valores 
+# SALIDAS: Operación elegidas por usuario
 #
 # HISTORIAL:
 #   2024-01-12: versión 1

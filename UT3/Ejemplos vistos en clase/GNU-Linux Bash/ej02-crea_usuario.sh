@@ -4,15 +4,14 @@
 # NOMBRE: ej02-crea_usuario.sh
 # OBJETIVO: Simular la creacion de un usuario
 #
-# AUTOR: Antonio Dorta <adorlor@gobiernodecanarias.org>
+# AUTOR: Adrian Ibarra Faura
 #
 # ENTRADAS: 1: nombre, 2: apellido, 3: usuario
 # SALIDAS: Mensaje
 #
-# VERSION: 2024-01-08 (versión 1.0 inicial)
+# Historial: 2024-01-08 
 #########################################
 
-nif=$1
 nombre=$3
 apellido=$2
 usuario=$4
