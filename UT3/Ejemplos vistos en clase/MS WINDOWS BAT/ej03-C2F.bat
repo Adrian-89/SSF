@@ -3,7 +3,7 @@
 title C2F
 
 REM ************************************
-REM * NOMBRE: c2f.bat
+REM * NOMBRE: ej03-C2F.bat
 REM * AUTOR: Adrian Ibarra Faura
 REM *
 REM * OBJETIVO: Convertir grados Celsius a Fahrenheit
